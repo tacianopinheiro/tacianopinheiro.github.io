@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Certificate in Privacy and Information Security, University of Brasília, 2026 (expected)
+* M.S. in Applied Computing, Ceará State University, 2012
+* B.S. in Computer Science, Federal University of Campina Gande, 2008
 
 Work experience
 ======

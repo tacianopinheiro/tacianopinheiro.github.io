@@ -8,6 +8,8 @@ date: 2011-01-01
 location: "Juazeiro do Norte, Brazil"
 ---
 
+description
+
 Taught Courses
 ======
 Programming Language

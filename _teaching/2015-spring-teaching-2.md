@@ -1,20 +1,46 @@
 ---
-title: "Teaching experience 2"
+title: "Bachelor’s Degree in Computer Science (Teaching Credential)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2013-
+venue: "Ceará State University, School of Science and Technology"
+date: 2013-01-01
+location: "Ceará, Brazil"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Taught Courses
 ======
 
-Heading 2
-======
+2018
+======= 
+* Computer Architecture
+* Algorithms and Programming (PCC)
+* Data Structures
 
-Heading 3
-======
+2017
+======= 
+* Algorithms and Programming
+* IT Management
+* Human-Computer Interaction
+* Introduction to Computing
+* Programming Language I
+
+2016
+======= 
+* Database
+
+2015
+======= 
+* Computer Lab
+
+2014
+======= 
+* Project Management
+* Human-Computer Interaction
+* Introduction to Computing
+* Capstone Project (Final Paper)
+
+2013
+======= 
+* Information Security

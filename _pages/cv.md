@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-{% if site.author.googlescholar %}
+
+{% if site.author.lattes %}
   <div class="wordwrap">You can also find my CV on <a href="{{site.author.lattes}}">Brazilian Academic CV Lattes</a>.</div>
 {% endif %}
+
 
 Education
 ======

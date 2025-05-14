@@ -1,15 +1,16 @@
 ---
-title: "Bachelor’s Degree in Computer Science (Teaching Credential)"
+title: "Ceará State University"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2013-
-venue: "Ceará State University, School of Science and Technology"
+permalink: /teaching/2013-ceara-state-university
+venue: "School of Science and Technology"
 date: 2013-01-01
 location: "Ceará, Brazil"
 ---
 
+Courses Taught
 
-Taught Courses
+Bachelor’s Degree in Computer Science (Teaching Credential)
 ======
 
 2018

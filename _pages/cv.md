@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
-  * GitHub University
+  * Federal University of Cariri
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
@@ -34,12 +34,7 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Leadership
 
 Publications
 ======

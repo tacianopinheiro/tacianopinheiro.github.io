@@ -9,9 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my CV on <a href="{{site.author.lattes}}">Brazilian Academic CV Lattes</a>.</div>
+{% endif %}
+
 Education
 ======
-* Certificate in Privacy and Information Security, University of Brasília, 2026 (expected)
+* Graduate Certificate in Privacy and Information Security, University of Brasília, 2026 (expected)
 * M.S. in Applied Computing, Ceará State University, 2012
 * B.S. in Computer Science, Federal University of Campina Gande, 2008
 

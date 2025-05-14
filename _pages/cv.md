@@ -9,11 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-
 {% if site.author.lattes %}
   <div class="wordwrap">You can also find my CV on <a href="{{site.author.lattes}}">Brazilian Academic CV Lattes</a>.</div>
 {% endif %}
-
 
 Education
 ======
@@ -23,24 +21,38 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* IT Analyst (2011-now)
   * Federal University of Cariri
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Duties includes: CIO (2021-now), IT Analyst (2011-now), Professor (2023-now)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Network consultant (2008-now)
+  * MAXCON Internet
+  * Duties included: ISP operations.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Professor (2013-2018)
+  * Ceará State University
+  * Duties included: Taught undergraduate courses.
+
+* Professor (2012-2016)
+  * Paraíso College
+  * Duties included: Taught undergraduate courses.
+
+* Professor (2011)
+  * Leão Sampaio College
+  * Duties included: Taught undergraduate courses.
+
+* IT consultant (2009-2010)
+  * BRQ IT Services
+  * Duties included: Systems Analysis and Design for a Health Insurance Provider
+
+* Software Engineer (2008-2009)
+  * Stefanini IT Solutions
+  * Duties included: Systems Analysis and Development for a Health Insurance Provider
   
 Skills
 ======
 * Leadership
+* Coomunication
 
 Publications
 ======

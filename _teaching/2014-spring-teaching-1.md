@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Leão Sampaio College"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Federal University of Cariri, Department"
-date: 2014-01-01
+venue: "Leão Sampaio College, Technology Degree in Systems Analysis and Development"
+date: 2011-01-01
 location: "Juazeiro do Norte, Brazil"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Taught Courses
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+Programming Language
+Object-Oriented Programming I
+Object-Oriented Programming II

@@ -1,8 +1,9 @@
 ---
-title: "Federal University of Cariri"
+title: "Teach at UFCA"
 collection: teaching
+type: "Undergraduate course"
 permalink: /teaching/2013-ceara-state-university
-venue: "School of Science and Technology"
+venue: "School of Applied Social Sciences (CCSA), Federal University of Cariri (UFCA)"
 date: 2023-01-01
 location: "Ceará, Brazil"
 ---

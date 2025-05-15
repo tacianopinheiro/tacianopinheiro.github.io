@@ -1,8 +1,8 @@
 ---
-title: "Ceará State University"
+title: "UECE"
 collection: teaching
 permalink: /teaching/2013-ceara-state-university
-venue: "School of Science and Technology"
+venue: "School of Science and Technology (CCT), Ceará State University (UECE)"
 date: 2013-01-01
 location: "Ceará, Brazil"
 ---

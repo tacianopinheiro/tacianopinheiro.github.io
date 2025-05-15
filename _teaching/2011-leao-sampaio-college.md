@@ -1,8 +1,8 @@
 ---
-title: "Leão Sampaio College"
+title: "FALS"
 collection: teaching
 permalink: /teaching/2011-leao-sampaio-college
-venue: ""
+venue: "Leão Sampaio College (FALS)"
 date: 2011-01-01
 location: "Juazeiro do Norte, Ceará, Brazil"
 ---

@@ -1,8 +1,8 @@
 ---
-title: "Paraíso College"
+title: "FAP"
 collection: teaching
 permalink: /teaching/2012-paraiso-college
-venue: ""
+venue: "Paraíso College (FAP)"
 date: 2012-01-01
 location: "Juazeiro do Norte, Ceará, Brazil"
 ---

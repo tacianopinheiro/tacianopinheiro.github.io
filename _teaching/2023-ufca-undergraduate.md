@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "Ceará, Brazil"
 ---
 
-# Courses Taught
+Courses Taught by Me.
 
 ## Undergraduate
 

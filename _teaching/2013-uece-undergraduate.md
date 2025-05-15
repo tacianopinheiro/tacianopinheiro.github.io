@@ -7,9 +7,7 @@ date: 2013-01-01
 location: "Ceará, Brazil"
 ---
 
-# Courses Taught
-
-# Undergraduate
+Courses Taught by Me.
 
 ### Bachelor’s Degree in Computer Science (Teaching Credential)
 

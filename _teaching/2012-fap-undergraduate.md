@@ -1,7 +1,7 @@
 ---
-title: "FAP"
+title: "Undergraduate programs taught at the FAP"
 collection: teaching
-permalink: /teaching/2012-paraiso-college
+permalink: /teaching/2012-fap-undergraduate
 venue: "Paraíso College (FAP)"
 date: 2012-01-01
 location: "Juazeiro do Norte, Ceará, Brazil"

@@ -1,7 +1,7 @@
 ---
-title: "UECE"
+title: "Undergraduate programs taught at the UECE"
 collection: teaching
-permalink: /teaching/2013-ceara-state-university
+permalink: /teaching/2013-uece-undergraduate
 venue: "School of Science and Technology (CCT), Ceará State University (UECE)"
 date: 2013-01-01
 location: "Ceará, Brazil"

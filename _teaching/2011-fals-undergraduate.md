@@ -1,7 +1,7 @@
 ---
-title: "FALS"
+title: "Undergraduate programs taught at the FALS"
 collection: teaching
-permalink: /teaching/2011-leao-sampaio-college
+permalink: /teaching/2011-fals-undergraduate
 venue: "Leão Sampaio College (FALS)"
 date: 2011-01-01
 location: "Juazeiro do Norte, Ceará, Brazil"

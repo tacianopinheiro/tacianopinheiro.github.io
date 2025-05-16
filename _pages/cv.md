@@ -15,9 +15,9 @@ redirect_from:
 
 Education
 ======
-* Graduate Certificate in Privacy and Information Security, University of Brasília, 2026 (expected)
-* M.S. in Applied Computing, Ceará State University, 2012
-* B.S. in Computer Science, Federal University of Campina Gande, 2008
+* :mortar_board: Graduate Certificate in Privacy and Information Security, University of Brasília, 2026 (expected)
+* :mortar_board: M.S. in Applied Computing, Ceará State University, 2012
+* :mortar_board: B.S. in Computer Science, Federal University of Campina Gande, 2008
 
 Work experience
 ======
@@ -29,7 +29,7 @@ Work experience
 
 * MAXCON Internet
   * Network consultant (2008-now)
-  * :earth_americas: Remote 
+  * :computer: Remote 
 
 * Ceará State University (UECE)
   * Professor (2013-2018)

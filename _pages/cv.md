@@ -26,9 +26,6 @@ Work experience
   * CIO (2021-now)
   * IT Analyst (2013-now)
 
-* Federal University of Ceará (UFC)
-  * IT Analyst (2011-2013)
-
 * MAXCON Internet
   * Network consultant (2008-now)
 
@@ -40,6 +37,9 @@ Work experience
 
 * Leão Sampaio College (FALS)
   * Professor (2011)
+
+* Federal University of Ceará (UFC)
+  * IT Analyst (2011-2013)
 
 * BRQ IT Services
   * IT consultant (2009-2010)

@@ -23,38 +23,45 @@ Work experience
 ======
 
 **Federal University of Cariri (UFCA)**
+:earth_americas: Juazeiro do Norte - CE - Brazil
 * Professor (2023-now)
 * CIO (2021-now)
 * IT Analyst (2013-now)
-* :earth_americas: Juazeiro do Norte - CE - Brazil
 
 **MAXCON Internet**
+:computer: Remote 
 * Network consultant (2008-now)
-* :computer: Remote 
+  * Planning, expansion, operation, and support of the telecommunications network of an Internet Service Provider (ISP).
 
 **Ceará State University (UECE)**
+:earth_americas: Fortaleza - CE - Brazil
 * Professor (2013-2018)
-* :earth_americas: Fortaleza - CE - Brazil
+  * Taught undergraduate courses in the Bachelor's degree program in Computing Education.
 
 **Paraíso College (FAP)**
+:earth_americas: Juazeiro do Norte - CE - Brazil
 * Professor (2012-2016)
-* :earth_americas: Juazeiro do Norte - CE - Brazil
+  * Taught undergraduate courses in the Bachelor's degree program in Information Systems.
 
 **Federal University of Ceará (UFC)**
+:earth_americas: Fortaleza - CE - Brazil
 * IT Analyst (2011-2013)
-* :earth_americas: Fortaleza - CE - Brazil
+  * Systems analysis and development for learning management systems (LMS) of the Virtual University Institute (UFC-Virtual) at the Federal University of Ceará.
     
 **Leão Sampaio College (FALS)**
+:earth_americas: Juazeiro do Norte - CE - Brazil
 * Professor (2011)
-* :earth_americas: Juazeiro do Norte - CE - Brazil
+  * Taught undergraduate courses in the Associate degree program in Systems Analysis and Development.
 
 **BRQ IT Services**
+:earth_americas: Fortaleza - CE - Brazil
 * IT consultant (2009-2010)
-* :earth_americas: Fortaleza - CE - Brazil
+  * Systems Analysis and Development for the health insurance provider Unimed Fortaleza
 
 **Stefanini IT Solutions**
+:earth_americas: Fortaleza - CE - Brazil
 * Software Engineer (2008-2009)
-* :earth_americas: Fortaleza - CE - Brazil
+  * Systems Analysis and Design for the health insurance provider Unimed Fortaleza.
   
 Skills
 ======

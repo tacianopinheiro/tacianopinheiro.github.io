@@ -21,39 +21,40 @@ Education
 
 Work experience
 ======
-* Federal University of Cariri (UFCA)
-  * Professor (2023-now)
-  * CIO (2021-now)
-  * IT Analyst (2013-now)
-  * :earth_americas: Juazeiro do Norte - CE - Brazil
 
-* MAXCON Internet
-  * Network consultant (2008-now)
-  * :computer: Remote 
+**Federal University of Cariri (UFCA)**
+* Professor (2023-now)
+* CIO (2021-now)
+* IT Analyst (2013-now)
+* :earth_americas: Juazeiro do Norte - CE - Brazil
 
-* Ceará State University (UECE)
-  * Professor (2013-2018)
-  * :earth_americas: Fortaleza - CE - Brazil
+**MAXCON Internet**
+* Network consultant (2008-now)
+* :computer: Remote 
 
-* Paraíso College (FAP)
-  * Professor (2012-2016)
-  * :earth_americas: Juazeiro do Norte - CE - Brazil
+**Ceará State University (UECE)**
+* Professor (2013-2018)
+* :earth_americas: Fortaleza - CE - Brazil
 
-* Federal University of Ceará (UFC)
-  * IT Analyst (2011-2013)
-  * :earth_americas: Fortaleza - CE - Brazil
+**Paraíso College (FAP)**
+* Professor (2012-2016)
+* :earth_americas: Juazeiro do Norte - CE - Brazil
+
+**Federal University of Ceará (UFC)**
+* IT Analyst (2011-2013)
+* :earth_americas: Fortaleza - CE - Brazil
     
-* Leão Sampaio College (FALS)
-  * Professor (2011)
-  * :earth_americas: Juazeiro do Norte - CE - Brazil
+**Leão Sampaio College (FALS)**
+* Professor (2011)
+* :earth_americas: Juazeiro do Norte - CE - Brazil
 
-* BRQ IT Services
-  * IT consultant (2009-2010)
-  * :earth_americas: Fortaleza - CE - Brazil
+**BRQ IT Services**
+* IT consultant (2009-2010)
+* :earth_americas: Fortaleza - CE - Brazil
 
-* Stefanini IT Solutions
-  * Software Engineer (2008-2009)
-  * :earth_americas: Fortaleza - CE - Brazil
+**Stefanini IT Solutions**
+* Software Engineer (2008-2009)
+* :earth_americas: Fortaleza - CE - Brazil
   
 Skills
 ======

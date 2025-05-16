@@ -24,7 +24,10 @@ Work experience
 * Federal University of Cariri (UFCA)
   * Professor (2023-now)
   * CIO (2021-now)
-  * IT Analyst (2011-now)
+  * IT Analyst (2013-now)
+
+* Federal University of Ceará (UFC)
+  * IT Analyst (2011-2013)
 
 * MAXCON Internet
   * Network consultant (2008-now)

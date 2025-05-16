@@ -35,11 +35,11 @@ Work experience
 * Paraíso College (FAP)
   * Professor (2012-2016)
 
-* Leão Sampaio College (FALS)
-  * Professor (2011)
-
 * Federal University of Ceará (UFC)
   * IT Analyst (2011-2013)
+    
+* Leão Sampaio College (FALS)
+  * Professor (2011)
 
 * BRQ IT Services
   * IT consultant (2009-2010)

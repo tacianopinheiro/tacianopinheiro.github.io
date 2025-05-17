@@ -28,7 +28,7 @@ redirect_from:
 ### **Federal University of Cariri (UFCA)**
 📍 Juazeiro do Norte, CE – Brazil  
 * CIO - Chief Information Officer (2021–🟢Present)
-* CISO - Chief Information Security Officer (2020-🟢2021)
+* CISO - Chief Information Security Officer (2020-2021)
 * CTO - Chief Technology Officer (2013-2020)
 * Professor (2023–🟢Present)  
 * IT Analyst (2013–🟢Present)

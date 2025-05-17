@@ -36,7 +36,7 @@ redirect_from:
 ### **MAXCON Internet**  
 🌐 Remote  
 * Network Consultant (2008–🟢Present)  
-  * Planning, expansion, operation, and support of the telecommunications network of an Internet Service Provider (ISP)
+  * Planning, expansion, operation, and support of the telecommunications network of an Internet Service Provider (ISP) operating in the state of Ceará, Brazil
 
 ### **Ceará State University (UECE)**  
 📍 Fortaleza, CE – Brazil  

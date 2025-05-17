@@ -27,15 +27,15 @@ redirect_from:
 ======
 ### **Federal University of Cariri (UFCA)**
 📍 Juazeiro do Norte, CE – Brazil  
-* CIO - Chief Information Officer (2021–📅Present)
-* CISO - Chief Information Security Officer (2020-📅2021)
+* CIO - Chief Information Officer (2021–🟢Present)
+* CISO - Chief Information Security Officer (2020-🟢2021)
 * CTO - Chief Technology Officer (2013-2020)
-* Professor (2023–📅Present)  
-* IT Analyst (2013–📅Present)
+* Professor (2023–🟢Present)  
+* IT Analyst (2013–🟢Present)
 
 ### **MAXCON Internet**  
 🌐 Remote  
-* Network Consultant (2008–📅Present)  
+* Network Consultant (2008–🟢Present)  
   * Planning, expansion, operation, and support of the telecommunications network of an Internet Service Provider (ISP)
 
 ### **Ceará State University (UECE)**  

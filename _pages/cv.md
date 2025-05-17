@@ -41,32 +41,32 @@ redirect_from:
 ### **Ceará State University (UECE)**  
 📍 Fortaleza, CE – Brazil  
 * Professor (2013–2018)  
-  * Taught undergraduate courses in the **Bachelor’s in Computing Education**
+  * Taught undergraduate courses in the field of Computing
 
 ### **Paraíso College (FAP)**  
 📍 Juazeiro do Norte, CE – Brazil  
 * Professor (2012–2016)  
-  * Taught undergraduate courses in the **Bachelor’s in Information Systems**
+  * Taught undergraduate courses in the field of Computing
 
 ### **Federal University of Ceará (UFC)**  
 📍 Fortaleza, CE – Brazil  
 * IT Analyst (2011–2013)  
-  * Systems analysis and development for Learning Management Systems (LMS) at UFC Virtual (Virtual University Institute)
+  * Systems analysis and development for a brazilian public university.
 
 ### **Leão Sampaio College (FALS)**  
 📍 Juazeiro do Norte, CE – Brazil  
 * Professor (2011)  
-  * Taught undergraduate courses in the **Associate Degree in Systems Analysis and Development**
+  * Taught undergraduate courses in the field of Computing
 
 ### **BRQ IT Services**  
 📍 Fortaleza, CE – Brazil  
 * IT Consultant (2009–2010)  
-  * Systems analysis and development for the health insurance provider **Unimed Fortaleza**
+  * * Systems analysis and design for a health insurance provider.
 
 ### **Stefanini IT Solutions**  
 📍 Fortaleza, CE – Brazil  
 * Software Engineer (2008–2009)  
-  * Systems analysis and design for the health insurance provider **Unimed Fortaleza**
+  * Systems analysis and development for a health insurance provider.
 
 ---
 
@@ -109,4 +109,4 @@ redirect_from:
 
 🤝 Service and Leadership
 ======
-* Currently signed in to 43 different Slack teams
+* Held C-level public sector positions in the field of Information Technology.**

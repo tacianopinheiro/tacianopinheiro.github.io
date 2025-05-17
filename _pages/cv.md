@@ -17,7 +17,7 @@ redirect_from:
 
 🎓 Education
 ======
-* 🎓 **Graduate Certificate** in Privacy and Information Security, University of Brasília (expected 2026)
+* 🎓 **Graduate Certificate** in Privacy and Information Security, University of Brasília (expected 🟢2026)
 * 🎓 **M.S.** in Applied Computing, Ceará State University (2012)
 * 🎓 **B.S.** in Computer Science, Federal University of Campina Grande (2008)
 

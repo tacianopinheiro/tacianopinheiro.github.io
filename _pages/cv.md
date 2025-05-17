@@ -15,19 +15,21 @@ redirect_from:
 </div>
 {% endif %}
 
-## 🎓 Education
-
+🎓 Education
+======
 * 🎓 **Graduate Certificate** in Privacy and Information Security, University of Brasília (expected 2026)
 * 🎓 **M.S.** in Applied Computing, Ceará State University (2012)
 * 🎓 **B.S.** in Computer Science, Federal University of Campina Grande (2008)
 
 ---
 
-## 💼 Work Experience
-
-### **Federal University of Cariri (UFCA)**  
+💼 Work Experience
+======
+### **Federal University of Cariri (UFCA)**
 📍 Juazeiro do Norte, CE – Brazil  
-* Chief Information Officer (2021–Present)  
+* CIO - Chief Information Officer (2021–Present)
+* CISO - Chief Information Security Officer (2020-2021)
+* CTO - Chief Technology Officer (2013-2020)
 * Professor (2023–Present)  
 * IT Analyst (2013–Present)
 
@@ -68,15 +70,15 @@ redirect_from:
 
 ---
 
-## 🛠️ Skills
-
+🛠️ Skills
+======
 * Leadership  
 * Communication
 
 ---
 
-## 📚 Publications
-
+📚 Publications
+======
 <ul>
   {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -85,8 +87,8 @@ redirect_from:
 
 ---
 
-## 🎤 Talks
-
+🎤 Talks
+======
 <ul>
   {% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
@@ -95,8 +97,8 @@ redirect_from:
 
 ---
 
-## 👨‍🏫 Teaching
-
+👨‍🏫 Teaching
+======
 <ul>
   {% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
@@ -105,6 +107,6 @@ redirect_from:
 
 ---
 
-## 🤝 Service and Leadership
-
+🤝 Service and Leadership
+======
 * Currently signed in to 43 different Slack teams
